@@ -3,6 +3,7 @@ DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "mark-zone"
 theme = "beautifulhugo"
+publishDir = "docs"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
